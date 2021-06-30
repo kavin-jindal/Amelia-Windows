@@ -31,7 +31,7 @@ A desktop chatbot made in Python
 
 > Type `exit` to exit the program
 
-#To-Do List
+# To-Do List
 
 > Voice support (almost done)
 

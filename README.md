@@ -26,11 +26,16 @@ A desktop chatbot made in Python
 # Usage:
 
 > Open Amelia.exe file
+
 > Type `chat` to go to the chat menu
+
 > Type `exit` to exit the program
 
-@ To-Do List
+#To-Do List
+
 > Voice support (almost done)
+
 > Chat clearing
+
 > Chat Logs
 > PC Control

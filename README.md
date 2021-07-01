@@ -1,5 +1,7 @@
-# Amelia-Bot
-A desktop chatbot made in Python
+# Amelia-Bot (Early Access)
+A desktop chatbot made in Python.
+
+**This is not the complete version of the chatbot, but just a beta version.**
 
 # Features
 
@@ -31,11 +33,28 @@ A desktop chatbot made in Python
 
 > Type `exit` to exit the program
 
-# To-Do List
+# Upcoming Features
 
 > Voice support (almost done)
 
 > Chat clearing
 
 > Chat Logs
+
 > PC Control
+
+> Games
+
+> Address Book (inbuilt)
+
+> todo list manager
+
+# Contact
+
+* You can either raise an issue in the repo or contact me on: 
+
+> Email: kavinsjindal@gmail.com
+
+> Discord ID: KJ#7320
+
+

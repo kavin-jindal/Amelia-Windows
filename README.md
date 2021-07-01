@@ -49,6 +49,8 @@ A desktop chatbot made in Python.
 
 > todo list manager
 
+> GUI support
+
 # Contact
 
 * You can either raise an issue in the repo or contact me on: 

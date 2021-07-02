@@ -25,6 +25,17 @@ A desktop chatbot made in Python.
 
 ![3](https://user-images.githubusercontent.com/68228966/123923992-28ab1a80-d9a7-11eb-9d73-6871e2ad9c89.JPG)
 
+# OS Compatibility
+
+* Windows 10
+
+* Linux (Coming soon)
+
+# Python Compatibility
+
+* Python3 
+
+
 # Usage:
 
 > Open Amelia.exe file

@@ -1,25 +1,11 @@
 # Amelia-Bot 1.1.0
 A desktop chatbot made in Python.
 
-# Update 1.1.0
+# [Update 1.1.0](https://github.com/kavinjindal/Amelia-Bot/releases/tag/v1.1.0)
 
-> Play a mini minecraft game
+# [Update 1.0.0](https://github.com/kavinjindal/Amelia-Bot/releases/tag/v1.0.0)
 
-> In Built Address book
 
-> Play a snake game
-
-> Take screenshots
-
-> Log your chats with the bot in a text file
-
-> Chat with an AI Powered Voice Chatbot with just a click
-
-> Make the bot solve tough arithmetic operations
-
-> Translation (Not functionnal, under development)
-
-> Write **help** to know the custom commands
 
 # Features
 

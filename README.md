@@ -1,15 +1,45 @@
-# Amelia-Bot (Early Access)
+# Amelia-Bot 1.1.0
 A desktop chatbot made in Python.
 
-**This is not the complete version of the chatbot, but just a beta version.**
+# Update 1.1.0
 
-# Features
+> Play a mini minecraft game
 
-> Chat with an AI Powered Chatbot with just a click
+> In Built Address book
+
+> Play a snake game
+
+> Take screenshots
+
+> Log your chats with the bot in a text file
+
+> Chat with an AI Powered Voice Chatbot with just a click
 
 > Make the bot solve tough arithmetic operations
 
 > Translation (Not functionnal, under development)
+
+> Write **help** to know the custom commands
+
+# Features
+
+> Play a mini minecraft game
+
+> In Built Address book
+
+> Play a snake game
+
+> Take screenshots
+
+> Log your chats with the bot in a text file
+
+> Chat with an AI Powered Voice Chatbot with just a click
+
+> Make the bot solve tough arithmetic operations
+
+> Translation (Not functionnal, under development)
+
+> Write **help** to know the custom commands
 
 # Snapshots
 > Menu
@@ -38,7 +68,9 @@ A desktop chatbot made in Python.
 
 # Usage:
 
-> Open Amelia.exe file
+> Open setup.exe file
+
+> Close the terminal and click on `Amelia.exe`
 
 > Type `chat` to go to the chat menu
 
@@ -46,17 +78,17 @@ A desktop chatbot made in Python.
 
 # Upcoming Features
 
-> Voice support (almost done)
+> ~~Voice support (almost done)~~
 
-> Chat clearing
+> ~~Chat clearing~~
 
-> Chat Logs
+> ~~Chat Logs~~
 
-> PC Control
+> ~~Open PC Apps with the bot
 
-> Games
+> ~~Games
 
-> Address Book (inbuilt)
+> ~~Address Book (inbuilt)
 
 > todo list manager
 

@@ -1,3 +1,4 @@
+# The bot is under development and will be available for general usage soon
 # Amelia-Bot 1.1.0
 A desktop chatbot made in Python.
 

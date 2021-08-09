@@ -15,8 +15,6 @@ A desktop chatbot made in Python.
 
 > Play a snake game
 
-> Take screenshots
-
 > Log your chats with the bot in a text file
 
 > Chat with an AI Powered Voice Chatbot with just a click
@@ -64,13 +62,9 @@ A desktop chatbot made in Python.
 
 # Upcoming Features
 
-> ~~Voice support (almost done)~~
-
 > ~~Chat clearing~~
 
 > ~~Chat Logs~~
-
-> ~~Open PC Apps with the bot
 
 > ~~Games
 

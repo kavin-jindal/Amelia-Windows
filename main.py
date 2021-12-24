@@ -11,7 +11,7 @@ import rsap
 import win32gui, win32con
 import tkinter.scrolledtext as ScrolledText
 import sys
-from tkinterweb import HtmlFrame
+#from tkinterweb import HtmlFrame
 
 root = Tk()
 root.title("Amelia Chatbot v1.0")

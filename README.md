@@ -1,79 +1,41 @@
-# The bot is under development and will be available for general usage soon
-# Amelia-Bot 1.1.0
+# Amelia 2.0.0
 A desktop chatbot made in Python.
+
+Finally!! this is the project which I had been planning since months and was sitting half complete in my files. I finally upgraded it from a CLI based chatbot to a GUI based
+chatbot. It is made using the Tkinter library and uses [RandomStuff API](https://www.npmjs.com/package/random-stuff-api) for the chatbot. Obviously I haven't made that, you can visit the official developer of the API here, [PGamerX](https://github.com/pgamerx). I am planning a lot for this app, you can expect minigames or other features in the future updates, I had a web searching feature planned but delayed it because it needed a lot of work. Even you can contribute to this project if you want 😉
+
+# [Update 2.0.0](https://github.com/kavin-jindal/Amelia-Windows/releases/tag/v2.0.0)
 
 # [Update 1.1.0](https://github.com/kavinjindal/Amelia-Bot/releases/tag/v1.1.0)
 
 # [Update 1.0.0](https://github.com/kavinjindal/Amelia-Bot/releases/tag/v1.0.0)
 
-
-
-# Features
-
-> Play a mini minecraft game
-
-> In Built Address book
-
-> Play a snake game
-
-> Log your chats with the bot in a text file
-
-> Chat with an AI Powered Voice Chatbot with just a click
-
-> Make the bot solve tough arithmetic operations
-
-> Translation (Not functionnal, under development)
-
-> Write **help** to know the custom commands
-
 # Snapshots
-> Menu
 
+![am1](https://user-images.githubusercontent.com/68228966/147353805-97371418-3f4f-42f6-b927-1c18f84f5a70.JPG)
 
-![Capture](https://user-images.githubusercontent.com/68228966/123923931-192bd180-d9a7-11eb-9133-4ebd52d38bee.JPG)
-
-> Chat Menu
-
-![2](https://user-images.githubusercontent.com/68228966/123923969-22b53980-d9a7-11eb-9855-045f5842094f.JPG)
-
-> Bot chats
-
-![3](https://user-images.githubusercontent.com/68228966/123923992-28ab1a80-d9a7-11eb-9d73-6871e2ad9c89.JPG)
 
 # OS Compatibility
 
-* Windows 10
-
-* Linux (Coming soon)
+* Windows 7 or above (have only tested on windows 10)
 
 # Python Compatibility
 
-* Python3 
-
+* Python3 (havent tested on Python2)
 
 # Usage:
 
-> Open setup.exe file
+> Run `Amelia.exe` to open the program
 
-> Close the terminal and click on `Amelia.exe`
+> If you detect any errors, you can open a new issue in the repo
 
-> Type `chat` to go to the chat menu
+> You can contribute to the program as well
 
-> Type `exit` to exit the program
+> The source code is given named `main.py`
 
-# Upcoming Features
+# Credits
 
-> ~~Chat clearing~~
-
-> ~~Chat Logs~~
-
-> ~~Games
-
-> ~~Address Book (inbuilt)
-
-> todo list manager
-
-> GUI support
+> The program uses RandomStuff API as its backend AI chatbot, credits go to the developer of the API [PGamerX](https://github.com/pgamerx)
 
 # Contact
 
@@ -83,4 +45,4 @@ A desktop chatbot made in Python.
 
 > Discord ID: KJ#7320
 
-
+# Made with :heart: by Kavin Jindal

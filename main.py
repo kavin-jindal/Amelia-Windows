@@ -11,6 +11,9 @@ import rsap
 import win32gui, win32con
 import tkinter.scrolledtext as ScrolledText
 import sys
+import requests
+
+
 #from tkinterweb import HtmlFrame
 
 root = Tk()
@@ -90,8 +93,20 @@ def send(event=None):
         txt.configure(state='normal')
         send="You =>"+e1.get()
         txt.insert(END,"\n\n"+send)
-        bot = RSAP(" ", bot_name = 'Amelia', dev_name = 'Kavin Jindal', language = 'en')
-        ans = bot.ai_response(e1.get())
+        url = "https://random-stuff-api.p.rapidapi.com/ai"
+
+        querystring = {"msg":"fuck off","bot_name":"Amelia","bot_gender":"female","bot_master":"Rick Dalton","bot_age":"1 year","bot_company":"Hollywood","bot_location":"America","bot_email":"rickdalton69@gmail.com","bot_build":"Public","bot_birth_year":"2021","bot_birth_date":"1st January, 2021","bot_birth_place":"America","bot_favorite_color":"Blue","bot_favorite_book":"Ride a Wild Bronco","bot_favorite_band":"The Beatles","bot_favorite_artist":"John Lennon","bot_favorite_actress":"Sharon Tate","bot_favorite_actor":"Rick Dalton","id":"shntS2DHoHvk"}
+
+        headers = {
+            "Authorization": "shntS2DHoHvk",
+            "X-RapidAPI-Key": "abdca4fa53mshc3e77ce74dc600cp183238jsna6b73f586c35",
+            "X-RapidAPI-Host": "random-stuff-api.p.rapidapi.com"
+        }
+
+        response = requests.request("GET", url, headers=headers, params=querystring)
+
+        
+        ans = response.text
         txt.insert(END, '\n\nAmelia =>'+ans)
         e1.delete(0, END)
         txt.configure(state='disabled')

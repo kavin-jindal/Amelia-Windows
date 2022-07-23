@@ -5,9 +5,6 @@ from tkinter import ttk
 import tkinter.ttk as ttk
 import webbrowser
 import os
-from rsap import RSAP
-from rsap import AsyncRSAP
-import rsap
 import win32gui, win32con
 import tkinter.scrolledtext as ScrolledText
 import sys
@@ -95,7 +92,7 @@ def send(event=None):
         txt.insert(END,"\n\n"+send)
         url = "https://random-stuff-api.p.rapidapi.com/ai"
 
-        querystring = {"msg":"fuck off","bot_name":"Amelia","bot_gender":"female","bot_master":"Rick Dalton","bot_age":"1 year","bot_company":"Hollywood","bot_location":"America","bot_email":"rickdalton69@gmail.com","bot_build":"Public","bot_birth_year":"2021","bot_birth_date":"1st January, 2021","bot_birth_place":"America","bot_favorite_color":"Blue","bot_favorite_book":"Ride a Wild Bronco","bot_favorite_band":"The Beatles","bot_favorite_artist":"John Lennon","bot_favorite_actress":"Sharon Tate","bot_favorite_actor":"Rick Dalton","id":"shntS2DHoHvk"}
+        querystring = {f"msg":"{e1.get()}","bot_name":"Amelia","bot_gender":"female","bot_master":"Rick Dalton","bot_age":"1 year","bot_company":"Hollywood","bot_location":"America","bot_email":"rickdalton69@gmail.com","bot_build":"Public","bot_birth_year":"2021","bot_birth_date":"1st January, 2021","bot_birth_place":"America","bot_favorite_color":"Blue","bot_favorite_book":"Ride a Wild Bronco","bot_favorite_band":"The Beatles","bot_favorite_artist":"John Lennon","bot_favorite_actress":"Sharon Tate","bot_favorite_actor":"Rick Dalton","id":"shntS2DHoHvk"}
 
         headers = {
             "Authorization": "shntS2DHoHvk",
